@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pS1RItPeLwPEYPsSS9LROWhPbFBp88R4t+9SXlMD3QnNiKP+KL/PpRk5PNnTsNR4vCDpdEkHEkXuijROq11KIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\oshift\\dotnet\\App\\DotNet.Docker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.build.containers\\8.0.100\\microsoft.net.build.containers.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
