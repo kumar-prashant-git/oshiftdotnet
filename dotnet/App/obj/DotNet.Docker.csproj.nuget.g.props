@@ -12,7 +12,4 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\Admin\.nuget\packages\" />
   </ItemGroup>
-  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.net.build.containers\8.0.100\build\Microsoft.NET.Build.Containers.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.build.containers\8.0.100\build\Microsoft.NET.Build.Containers.props')" />
-  </ImportGroup>
 </Project>
